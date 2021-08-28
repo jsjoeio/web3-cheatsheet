@@ -12,6 +12,8 @@ A cheatsheet with all the best web3 resources
 - [zkPorter: a breakthrough in L2 scaling](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf)
 - [Common Terms in Web3](https://dev.to/0xjepsen/common-terms-in-web3-5g9h)
 - [14 guides to learn Web3](https://twitter.com/dabit3/status/1427010146585260038?s=20)
+- [Rabbithole](https://rabbithole.gg/)
+  - Earn crypto by using decentralized apps   
 
 ## NFTs
 - [WTF is an NFT?](https://twitter.com/jsjoeio/status/1429218955546152972?s=20)
