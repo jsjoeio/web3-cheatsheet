@@ -28,4 +28,4 @@ A cheatsheet with all the best web3 resources
 
 # Contributing
 
-Contributions welcome. Feel free to submit a PR!
+Contributions welcome and encouraged. Feel free to submit a PR!
