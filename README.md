@@ -29,3 +29,7 @@ A cheatsheet with all the best web3 resources
 # Contributing
 
 Contributions welcome and encouraged. Feel free to submit a PR!
+
+# License 
+
+MIT
