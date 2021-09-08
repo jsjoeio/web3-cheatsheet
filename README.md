@@ -15,6 +15,7 @@ A cheatsheet with all the best web3 resources
 - [Rabbithole](https://rabbithole.gg/)
   - Earn crypto by using decentralized apps   
 - immensely helpful [thread](https://twitter.com/Darrenlautf/status/1434877372700901384?s=20) on where to read to get started in crypto
+- web3 crash course [thread](https://twitter.com/dabit3/status/1435516510408110080?s=20)
 
 ## NFTs
 - [WTF is an NFT?](https://twitter.com/jsjoeio/status/1429218955546152972?s=20)
